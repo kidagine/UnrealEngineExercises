@@ -1,0 +1,15 @@
+﻿  Parsing headers for BatteryCollectorEditor
+    Running UnrealHeaderTool "D:\CodeProjects\UnrealProjects\BatteryCollector\BatteryCollector.uproject" "D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for BatteryCollectorEditor in 13.9615298 seconds
+  Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 4 processes...
+    [1/6] BatteryCollector.init.gen.cpp
+    [2/6] SpawnVolume.gen.cpp
+    [3/6] SpawnVolume.cpp
+    [4/6] UE4Editor-BatteryCollector-0016.lib
+       Creating library D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.lib and object D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.exp
+    [5/6] UE4Editor-BatteryCollector-0016.dll
+       Creating library D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.suppressed.lib and object D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.suppressed.exp
+    [6/6] BatteryCollectorEditor.target
+  Total time in Parallel executor: 48.38 seconds
+  Total execution time: 65.05 seconds

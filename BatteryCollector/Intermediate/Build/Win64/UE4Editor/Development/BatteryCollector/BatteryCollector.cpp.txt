@@ -1,0 +1,2 @@
+D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+D:\CodeProjects\UnrealProjects\BatteryCollector\Source\BatteryCollector\BatteryCollector.h

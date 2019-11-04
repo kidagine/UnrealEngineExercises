@@ -1,0 +1,13 @@
+D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+D:\CodeProjects\UnrealProjects\BatteryCollector\Source\BatteryCollector\SpawnVolume.h
+D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\SpawnVolume.generated.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+D:\CodeProjects\UnrealProjects\BatteryCollector\Source\BatteryCollector\Pickup.h
+D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\Pickup.generated.h

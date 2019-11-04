@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BatteryCollector.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{01B44D8C-7885-4C84-B1FC-874E63225070}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BatteryCollector.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BatteryCollectorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{80A19E0B-D858-416E-9F4F-397730F6D296}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BatteryCollector">
+      <UniqueIdentifier>{FCCC3D8F-AA90-49D8-A991-70D46762A6E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BatteryCollector\BatteryCollector.Build.cs">
+      <Filter>Source\BatteryCollector</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BatteryCollector\BatteryCollector.cpp">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BatteryCollector\BatteryCollector.h">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BatteryCollector\BatteryCollectorCharacter.cpp">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BatteryCollector\BatteryCollectorCharacter.h">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BatteryCollector\BatteryCollectorGameMode.cpp">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BatteryCollector\BatteryCollectorGameMode.h">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\BatteryCollector\Pickup.cpp">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BatteryCollector\Pickup.h">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\BatteryCollector\BatteryPickup.h">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BatteryCollector\SpawnVolume.h">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\BatteryCollector\BatteryPickup.cpp">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BatteryCollector\SpawnVolume.cpp">
+      <Filter>Source\BatteryCollector</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\Definitions.BatteryCollector.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\CodeProjects\UnrealProjects\BatteryCollector\Source\BatteryCollector/BatteryCollectorGameMode.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Inc\BatteryCollector\BatteryCollectorGameMode.generated.h
