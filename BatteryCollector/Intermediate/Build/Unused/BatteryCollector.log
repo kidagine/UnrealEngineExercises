@@ -1,15 +1,19 @@
-﻿  Parsing headers for BatteryCollectorEditor
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\CodeProjects\UnrealProjects\BatteryCollector).
+  Parsing headers for BatteryCollectorEditor
     Running UnrealHeaderTool "D:\CodeProjects\UnrealProjects\BatteryCollector\BatteryCollector.uproject" "D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\BatteryCollectorEditor\Development\BatteryCollectorEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for BatteryCollectorEditor in 13.9615298 seconds
+  Reflection code generated for BatteryCollectorEditor in 30.8580646 seconds
   Using Visual Studio 2019 14.23.28105 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 6 actions with 4 processes...
-    [1/6] BatteryCollector.init.gen.cpp
-    [2/6] SpawnVolume.gen.cpp
-    [3/6] SpawnVolume.cpp
-    [4/6] UE4Editor-BatteryCollector-0016.lib
-       Creating library D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.lib and object D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.exp
-    [5/6] UE4Editor-BatteryCollector-0016.dll
-       Creating library D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.suppressed.lib and object D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0016.suppressed.exp
-    [6/6] BatteryCollectorEditor.target
-  Total time in Parallel executor: 48.38 seconds
-  Total execution time: 65.05 seconds
+  Building 7 actions with 4 processes...
+    [1/7] BatteryCollector.init.gen.cpp
+    [2/7] BatteryCollectorGameMode.cpp
+    [3/7] BatteryCollectorCharacter.gen.cpp
+    [4/7] BatteryCollectorCharacter.cpp
+D:\CodeProjects\UnrealProjects\BatteryCollector\Source\BatteryCollector\BatteryCollectorCharacter.cpp(49): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+    D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Components/SceneComponent.h(658): note: see declaration of 'USceneComponent::AttachTo'
+    [5/7] UE4Editor-BatteryCollector-0003.lib
+       Creating library D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0003.lib and object D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0003.exp
+    [6/7] UE4Editor-BatteryCollector-0003.dll
+       Creating library D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0003.suppressed.lib and object D:\CodeProjects\UnrealProjects\BatteryCollector\Intermediate\Build\Win64\UE4Editor\Development\BatteryCollector\UE4Editor-BatteryCollector-0003.suppressed.exp
+    [7/7] BatteryCollectorEditor.target
+  Total time in Parallel executor: 175.78 seconds
+  Total execution time: 212.25 seconds

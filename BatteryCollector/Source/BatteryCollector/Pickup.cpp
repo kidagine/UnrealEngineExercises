@@ -1,7 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "Components/StaticMeshComponent.h"
 #include "Pickup.h"
+#include "Components/StaticMeshComponent.h"
 
 // Sets default values
 APickup::APickup()
@@ -38,3 +38,10 @@ void APickup::SetActive(bool NewPickupState)
 	bIsActive = NewPickupState;
 }
 
+void APickup::WasCollected_Implementation()
+{
+	// Log a debug message
+	FString PickupDebugString = GetName();
+	UE_LOG(LogClass, Log, TEXT("You have collected %s"), *PickupDebugString);
+
+}
