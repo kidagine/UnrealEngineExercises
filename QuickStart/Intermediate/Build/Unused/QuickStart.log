@@ -1,0 +1,11 @@
+﻿  Building QuickStartEditor...
+  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 4 processes...
+    [1/4] FloatingActor.cpp
+    [2/4] UE4Editor-QuickStart-0015.lib
+       Creating library C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\UE4Editor-QuickStart-0015.lib and object C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\UE4Editor-QuickStart-0015.exp
+    [3/4] UE4Editor-QuickStart-0015.dll
+       Creating library C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\UE4Editor-QuickStart-0015.suppressed.lib and object C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\UE4Editor-QuickStart-0015.suppressed.exp
+    [4/4] QuickStartEditor.target
+  Total time in Parallel executor: 3.79 seconds
+  Total execution time: 7.43 seconds

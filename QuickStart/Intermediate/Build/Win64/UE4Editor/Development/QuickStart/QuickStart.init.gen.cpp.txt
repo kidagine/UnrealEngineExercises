@@ -1,0 +1,3 @@
+C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\Definitions.QuickStart.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,7 @@
+C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Intermediate\Build\Win64\UE4Editor\Development\QuickStart\Definitions.QuickStart.h
+C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Source\QuickStart\QuickStartGameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Kid Agine\Desktop\Dev\UnrealProjects\QuickStart\Intermediate\Build\Win64\UE4Editor\Inc\QuickStart\QuickStartGameModeBase.generated.h
